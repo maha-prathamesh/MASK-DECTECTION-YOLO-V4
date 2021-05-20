@@ -1,4 +1,4 @@
-# MASK-DECTECTION-YOLO-V4-
+# MASK-DECTECTION-YOLO-V$
 Mask Detection using YOLO v4. 
 
 # Steps to execute:
