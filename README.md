@@ -53,7 +53,7 @@ Mask Detection using YOLO v4.
 | FPS | AVG:52 |
 | Total Detection Time | 5 Seconds |
 
-Weight Files:
+# Weight Files:
 <a href = "https://drive.google.com/drive/folders/15auDz5V4IdwyGdlZ8N5GWeqvPPOJ7xcQ?usp=sharing">Trained Weights</a>
 
 
