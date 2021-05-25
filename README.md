@@ -64,4 +64,3 @@ Mask Detection using YOLO v4.
 <img src="https://github.com/maha-prathamesh/MASK-DECTECTION-YOLO-V4-/blob/main/TEST_DATA_PRED_2.jpg" height="300" width="600"/>
 </br></br>
 <img src="https://github.com/maha-prathamesh/MASK-DECTECTION-YOLO-V4-/blob/main/predictions.jpg" height="300" width="600"/>
-
